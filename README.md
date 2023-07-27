@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_1690417796](https://github.com/TechZainShahzad/Dark_Calculator/assets/136337895/f94ddb7b-4c28-4517-ac6b-d8be442a76b1)
+
 
 This project is a starting point for a Flutter application.
 
